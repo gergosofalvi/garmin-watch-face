@@ -2,85 +2,86 @@
 
 
 	<string id="AppName">sFlvWatchFace</string>
-	<string id="AppVersionTitle">App Version</string>
+<string id="AppVersionTitle">Alkalmazás Verzió</string>
 
-	<string id="ThemeTitle">Theme</string>
-	<string id="HoursColourTitle">Hours Colour</string>
-	<string id="MinutesColourTitle">Minutes Colour</string>
-	<string id="LeftGoalMeterTitle">Left Meter</string>
-	<string id="RightGoalMeterTitle">Right Meter</string>
-	<string id="CaloriesGoalTitle">Calories Goal (1-10,000kCal)</string>
-	<string id="GoalMeterStyleTitle">Meter Style</string>
-	<string id="MeterDigitsStyleTitle">Meter Digits Style</string>
-	<string id="LocalTimeInCityTitle">Add Local Time in City (Beta)</string>
-	<string id="MoveBarStyleTitle">Move Bar Style</string>
-	<string id="HideSecondsTitle">Hide Seconds</string>
-	<string id="HideHoursLeadingZeroTitle">Hide Hours Leading Zero</string>
-	<string id="OWMKeyOverride">OpenWeatherMap API Key Override</string>
+    <string id="ThemeTitle">Téma</string>
+    <string id="HoursColourTitle">Órák Színe</string>
+    <string id="MinutesColourTitle">Percek Színe</string>
+    <string id="LeftGoalMeterTitle">Bal Oldali Mérő</string>
+    <string id="RightGoalMeterTitle">Jobb Oldali Mérő</string>
+    <string id="CaloriesGoalTitle">Kalóriacél (1-10 000 kCal)</string>
+    <string id="GoalMeterStyleTitle">Mérő Stílusa</string>
+    <string id="MeterDigitsStyleTitle">Mérő Számjegyeinek Stílusa</string>
+    <string id="LocalTimeInCityTitle">Helyi Idő Hozzáadása Városban (Béta)</string>
+    <string id="MoveBarStyleTitle">Mozgássáv Stílusa</string>
+    <string id="HideSecondsTitle">Másodpercek Elrejtése</string>
+    <string id="HideHoursLeadingZeroTitle">Órák Kezdő Nullájának Elrejtése</string>
+    <string id="OWMKeyOverride">OpenWeatherMap API Kulcs Felülbírálása</string>
 
-	<string id="FieldCountTitle">Number Of Data Fields</string>
-	<string id="DataField1Title">Data Field 1</string>
-	<string id="DataField2Title">Data Field 2</string>
-	<string id="DataField3Title">Data Field 3</string>
+    <string id="FieldCountTitle">Adatmezők Száma</string>
+    <string id="DataField1Title">1. Adatmező</string>
+    <string id="DataField2Title">2. Adatmező</string>
+    <string id="DataField3Title">3. Adatmező</string>
 
-	<string id="IndicatorCountTitle">Number Of Indicators</string>
-	<string id="Indicator1Title">Indicator 1</string>
-	<string id="Indicator2Title">Indicator 2</string>
-	<string id="Indicator3Title">Indicator 3</string>
+    <string id="IndicatorCountTitle">Indikátorok Száma</string>
+    <string id="Indicator1Title">1. Indikátor</string>
+    <string id="Indicator2Title">2. Indikátor</string>
+    <string id="Indicator3Title">3. Indikátor</string>
 
-	<string id="FromTheme">(From Theme)</string>
-	<string id="MonoHighlight">Mono Highlight</string>
-	<string id="Mono">Mono</string>
+    <string id="FromTheme">(Témából)</string>
+    <string id="MonoHighlight">Monó Kiemelés</string>
+    <string id="Mono">Monó</string>
 
-	<string id="AllSegmentsMerged">All Segments (Merged)</string>
-	<string id="FilledSegmentsMerged">Filled Segments (Merged)</string>
-	<string id="AllSegments">All Segments</string>
-	<string id="FilledSegments">Filled Segments</string>
-	<string id="Hidden">Hidden</string>
-	<string id="CurrentTarget">Current/Target</string>
-	<string id="Current">Current</string>
+    <string id="AllSegmentsMerged">Minden Szegmens (Egyesítve)</string>
+    <string id="FilledSegmentsMerged">Kitöltött Szegmensek (Egyesítve)</string>
+    <string id="AllSegments">Minden Szegmens</string>
+    <string id="FilledSegments">Kitöltött Szegmensek</string>
+    <string id="Hidden">Rejtett</string>
+    <string id="CurrentTarget">Jelenlegi/Cél</string>
+    <string id="Current">Jelenlegi</string>
 
-	<string id="ThemeBlueDark">Blue (Dark)</string>
-	<string id="ThemePinkDark">Pink (Dark)</string>
-	<string id="ThemeRedDark">Red (Dark)</string>
-	<string id="ThemeGreenDark">Green (Dark)</string>
-	<string id="ThemeCornflowerBlueDark">Cornflower Blue (Dark)</string>
-	<string id="ThemeLemonCreamDark">Lemon Cream (Dark)</string>
-	<string id="ThemeVividYellowDark">Vivid Yellow (Dark)</string>
-	<string id="ThemeDaygloOrangeDark">Dayglo Orange (Dark)</string>
-	<string id="ThemeMonoDark">Mono (Dark)</string>
-	<string id="ThemeMonoLight">Mono (Light)</string>
-	<string id="ThemeBlueLight">Blue (Light)</string>
-	<string id="ThemeRedLight">Red (Light)</string>
-	<string id="ThemeGreenLight">Green (Light)</string>
-	<string id="ThemeDaygloOrangeLight">Dayglo Orange (Light)</string>
-	<string id="ThemeCornYellowDark">Corn Yellow (Dark)</string>
+    <string id="ThemeBlueDark">Kék (Sötét)</string>
+    <string id="ThemePinkDark">Rózsaszín (Sötét)</string>
+    <string id="ThemeRedDark">Piros (Sötét)</string>
+    <string id="ThemeGreenDark">Zöld (Sötét)</string>
+    <string id="ThemeCornflowerBlueDark">Búzavirágkék (Sötét)</string>
+    <string id="ThemeLemonCreamDark">Citromkrém (Sötét)</string>
+    <string id="ThemeVividYellowDark">Élénksárga (Sötét)</string>
+    <string id="ThemeDaygloOrangeDark">Világító Narancs (Sötét)</string>
+    <string id="ThemeMonoDark">Monó (Sötét)</string>
+    <string id="ThemeMonoLight">Monó (Világos)</string>
+    <string id="ThemeBlueLight">Kék (Világos)</string>
+    <string id="ThemeRedLight">Piros (Világos)</string>
+    <string id="ThemeGreenLight">Zöld (Világos)</string>
+    <string id="ThemeDaygloOrangeLight">Világító Narancs (Világos)</string>
+    <string id="ThemeCornYellowDark">Kukoricasárga (Sötét)</string>
 
-	<string id="Steps">Steps</string>
-	<string id="FloorsClimbed">Floors Climbed</string>
-	<string id="ActiveMinutes">Active Minutes (Weekly)</string>
-	<string id="CaloriesManualGoal">Calories (Manual Goal)</string>
-	<string id="Off">Off</string>
+    <string id="Steps">Lépések</string>
+    <string id="FloorsClimbed">Megmászott Emeletek</string>
+    <string id="ActiveMinutes">Aktív Percek (Heti)</string>
+    <string id="CaloriesManualGoal">Kalória (Manuális Cél)</string>
+    <string id="Off">Kikapcsolva</string>
 
-	<string id="HeartRate">Heart Rate</string>
-	<string id="HeartRateLive5s">Heart Rate (Live 5s)</string>
-	<string id="Battery">Battery</string>
-	<string id="BatteryHidePercentage">Battery (Hide Percentage)</string>
-	<string id="Notifications">Notifications</string>
-	<string id="Calories">Calories</string>
-	<string id="Distance">Distance</string>
-	<string id="Alarms">Alarms</string>
-	<string id="Altitude">Altitude</string>
-	<string id="Temperature">Thermometer</string>
-	<string id="Bluetooth">Bluetooth</string>
-	<string id="BluetoothOrNotifications">Bluetooth/Notifications</string>
-	<string id="SunriseSunset">Sunrise/Sunset</string>
-	<string id="Weather">Weather</string>
-	<string id="Humidity">Humidity</string>
-	<string id="Pressure">Pressure</string>
+    <string id="HeartRate">Pulzus</string>
+    <string id="HeartRateLive5s">Pulzus (Élő, 5s)</string>
+    <string id="Battery">Akkumulátor</string>
+    <string id="BatteryHidePercentage">Akkumulátor (Százalék Elrejtése)</string>
+    <string id="Notifications">Értesítések</string>
+    <string id="Calories">Kalória</string>
+    <string id="Distance">Távolság</string>
+    <string id="Alarms">Ébresztők</string>
+    <string id="Altitude">Magasság</string>
+    <string id="Temperature">Hőmérő</string>
+    <string id="Bluetooth">Bluetooth</string>
+    <string id="BluetoothOrNotifications">Bluetooth/Értesítések</string>
+    <string id="SunriseSunset">Napkelte/Napnyugta</string>
+    <string id="Weather">Időjárás</string>
+    <string id="Humidity">Páratartalom</string>
+    <string id="Pressure">Légnyomás</string>
 
 	<!-- Internal use only. Required because fonts cannot be overridden by locale. Leave blank for no override. -->
-	<string id="DATE_FONT_OVERRIDE"></string>
+	<string id="DATE_FONT_OVERRIDE">DATE_FONT_OVERRIDE</string>
+
 
 	<string id="Sun">v</string>
 	<string id="Mon">h</string>
