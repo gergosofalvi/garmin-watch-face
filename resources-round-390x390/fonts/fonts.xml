@@ -8,7 +8,7 @@
 	<font id="NormalFont" filename="../../resources-round-260x260/fonts/titillium-web-semibold-26.fnt" antialias="true" filter="%-.0123456789!:?CFabefgikmpsty°"/>
 	<font id="NormalFontCities" filename="../../resources-round-260x260/fonts/titillium-web-semibold-26.fnt" antialias="true" filter=" %',-.0123456789!:?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°ÅÍÎÖáãäåæèéíðñóôöøûüž"/>
 
-	<font id="IconsFont" filename="crystal-icons-extra-large.fnt" antialias="true"/>
+	<font id="IconsFont" filename="sFlvWatchFace-icons-extra-large.fnt" antialias="true"/>
 
 	<!-- Font size chosen such that height of sunshine icon is close to 39px (38px) -->
 	<!-- .fnt file modified such that day icons start from "A", night icons start from "a", "broken clouds" ("I") is shared -->

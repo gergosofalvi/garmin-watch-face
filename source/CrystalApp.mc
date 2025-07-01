@@ -68,7 +68,7 @@ function deleteStorageValue(key as PropertyKeyType) as Void {
 }
 
 (:background)
-class CrystalApp extends App.AppBase {
+class sFlvWatchFace extends App.AppBase {
 
 	var mView;
 	var mFieldTypes as Array<Number?> = new [3];
@@ -89,7 +89,7 @@ class CrystalApp extends App.AppBase {
 
 	// Return the initial view of your application here
 	function getInitialView() {
-		mView = new CrystalView();
+		mView = new sFlvWatchFaceView();
 		onSettingsChanged(); // After creating view.
 		return [mView];
 	}

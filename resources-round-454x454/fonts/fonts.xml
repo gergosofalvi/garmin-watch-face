@@ -8,7 +8,7 @@
 	<font id="NormalFont" filename="../../resources-round-360x360/fonts/titillium-web-semibold-36.fnt" antialias="true" filter="%-.0123456789!:?CFabefgikmpsty°"/>
 	<font id="NormalFontCities" filename="../../resources-round-360x360/fonts/titillium-web-semibold-36.fnt" antialias="true" filter=" %',-.0123456789!:?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°ÅÍÎÖáãäåæèéíðñóôöøûüž"/>
 
-	<font id="IconsFont" filename="crystal-icons-extra-extra-large.fnt" antialias="true"/>
+	<font id="IconsFont" filename="sFlvWatchFace-icons-extra-extra-large.fnt" antialias="true"/>
 
 	<!-- .fnt file modified such that day icons start from "A", night icons start from "a", "broken clouds" ("I") is shared -->
 	<font id="WeatherIconsFontDay" filename="weather-icons-45.fnt" antialias="true" filter="ABCDEFGHI"/>

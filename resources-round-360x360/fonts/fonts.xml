@@ -9,7 +9,7 @@
 	<font id="NormalFontCities" filename="../../resources/fonts/titillium-web-semibold-24.fnt" antialias="true" filter=" %',-.0123456789!:?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz°ÅÍÎÖáãäåæèéíðñóôöøûüž"/>
 
 	<!-- Manually symlinked from resources-round-390x390/fonts. -->
-	<font id="IconsFont" filename="../../resources-round-390x390/fonts/crystal-icons-extra-large.fnt" antialias="true"/>
+	<font id="IconsFont" filename="../../resources-round-390x390/fonts/sFlvWatchFace-icons-extra-large.fnt" antialias="true"/>
 
 	<!-- Font size chosen such that height of sunshine icon is close to 39px (38px) -->
 	<!-- .fnt file modified such that day icons start from "A", night icons start from "a", "broken clouds" ("I") is shared -->

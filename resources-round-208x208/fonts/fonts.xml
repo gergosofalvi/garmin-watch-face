@@ -7,5 +7,5 @@
     <font id="NormalFont" filename="../../resources/fonts/titillium-web-semibold-16.fnt" antialias="false" filter="%-.0123456789!:?CFabefgikmpsty°"/>
 
     <!-- STEPS, HEART_RATE, NOTIFICATIONS, CALORIES, DISTANCE, BLUETOOTH, BATTERY, ALARMS, ALTITUDE, SUNRISE_SUNSET, LIVE_HR_SPOT -->
-    <font id="IconsFont" filename="../../resources-small-icons/fonts/crystal-icons-small.fnt" antialias="false" filter="0356789:;?="/>
+    <font id="IconsFont" filename="../../resources-small-icons/fonts/sFlvWatchFace-icons-small.fnt" antialias="false" filter="0356789:;?="/>
 </fonts>
